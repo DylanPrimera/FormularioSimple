@@ -20,9 +20,7 @@ class logeo extends React.Component{
         return <div className="container">
             <Form className="login-form">
 
-                <h1><span className="font-weight-bold">formulario</span>.com</h1>
-
-                <h2 className="text-center">¡Bienvenido!</h2>
+                <h1 className="text-center">¡Bienvenido!</h1>
 
                 <FormGroup>
                     <Label>Email</Label>
